@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Flávio e Vorcaro</title>
+  <meta name="description" content="Cronologia da relação entre Flávio Bolsonaro e Daniel Vorcaro, com fontes jornalísticas em cada episódio.">
+  <meta name="theme-color" content="#0c0e12" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f3f1ec" media="(prefers-color-scheme: light)">
+
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:title" content="Flávio e Vorcaro">
+  <meta property="og:description" content="O filme Dark Horse, as mensagens divulgadas e a investigação, com a fonte e a versão de Flávio em cada episódio.">
+
+  <link rel="icon" href="./assets/img/favicon.svg" type="image/svg+xml">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap">
+
+  <link rel="stylesheet" href="./assets/css/tokens.css">
+  <link rel="stylesheet" href="./assets/css/base.css">
+  <link rel="stylesheet" href="./assets/css/hero.css">
+  <link rel="stylesheet" href="./assets/css/money.css">
+  <link rel="stylesheet" href="./assets/css/timeline.css">
+  <link rel="stylesheet" href="./assets/css/footer.css">
+
+  <script type="module" src="./assets/js/main.js"></script>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div class="kicker">
+        <b>Caso Master</b>
+        <span>Dossiê de relação</span>
+        <span id="updated-at">Atualizado até 9 out 2026</span>
+      </div>
+
+      <h1 class="names">
+        <span>Flávio</span>
+        <span class="names__and">e</span>
+        <span class="names__outline">Vorcaro</span>
+      </h1>
+
+      <p class="dek">
+        Como o senador do PL e o ex-dono do Banco Master se aproximaram em torno do
+        <strong>filme Dark Horse</strong>, o que as mensagens divulgadas mostram e em que pé está a investigação.
+        Cada episódio traz a fonte e a versão de Flávio.
+      </p>
+
+      <ul class="cast">
+        <li class="cast__item">
+          <span class="cast__avatar cast__avatar--hl" aria-hidden="true">FB</span>
+          <p class="cast__text"><span class="cast__label">Senador · PL-RJ</span><b class="cast__name">Flávio Bolsonaro</b></p>
+        </li>
+        <li class="cast__item">
+          <span class="cast__avatar cast__avatar--hl" aria-hidden="true">DV</span>
+          <p class="cast__text"><span class="cast__label">Ex-banqueiro · preso</span><b class="cast__name">Daniel Vorcaro</b></p>
+        </li>
+        <li class="cast__item">
+          <span class="cast__avatar" aria-hidden="true">▶</span>
+          <p class="cast__text"><span class="cast__label">Elo central</span><b class="cast__name">Filme Dark Horse</b></p>
+        </li>
+        <li class="cast__item">
+          <span class="cast__avatar" aria-hidden="true">AM</span>
+          <p class="cast__text"><span class="cast__label">Relator no STF</span><b class="cast__name">André Mendonça</b></p>
+        </li>
+      </ul>
+    </header>
+
+    <main>
+      <section class="panel" aria-labelledby="money-title">
+        <h2 class="panel__title" id="money-title">O dinheiro do filme</h2>
+        <p class="panel__lead">Barras na mesma escala, em reais. A distância entre o que foi enviado e o custo declarado é uma das linhas que a PF apura.</p>
+
+        <div class="bars">
+          <div class="bar">
+            <span class="bar__value">R$ 134 mi</span>
+            <span class="bar__caption">prometidos por Vorcaro (US$ 24 mi), segundo o Intercept</span>
+            <div class="bar__track"><div class="bar__fill bar__fill--promised" style="--w:100%"></div></div>
+          </div>
+          <div class="bar">
+            <span class="bar__value">R$ 61 mi</span>
+            <span class="bar__caption">pagos em 6 operações, fev–mai 2025 (US$ 10,6 mi)</span>
+            <div class="bar__track"><div class="bar__fill bar__fill--paid" style="--w:45.5%"></div></div>
+          </div>
+          <div class="bar">
+            <span class="bar__value">R$ 12–13 mi</span>
+            <span class="bar__caption">custo do filme informado pelo produtor, Mario Frias</span>
+            <div class="bar__track"><div class="bar__fill bar__fill--cost" style="--w:9.7%"></div></div>
+          </div>
+        </div>
+
+        <p class="panel__note">Conversões em reais conforme as reportagens. Flávio afirma que todo o valor foi usado na produção.</p>
+      </section>
+
+      <section aria-labelledby="timeline-title">
+        <h2 class="section-title" id="timeline-title">Linha do tempo</h2>
+        <div class="filters" id="filters" role="group" aria-label="Filtrar por tipo"></div>
+        <ol class="timeline" id="timeline">
+          <li class="timeline__status">Carregando episódios…</li>
+        </ol>
+        <noscript><p class="timeline__status">Ative o JavaScript para ver a linha do tempo.</p></noscript>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Resumos de reportagens, não as mensagens originais. Ser citado ou investigado não equivale a condenação.</p>
+      <p>Fontes: Intercept Brasil (via Jornal Opção e Agência Pública), Itatiaia, SBT News, Bloomberg Línea, Jornal do Brasil, Diario de Pernambuco, Money Times, Bem Paraná.</p>
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,51 @@
+/* Design tokens — dark-first, with light theme via OS preference or [data-theme="light"] */
+:root {
+  --bg: #0c0e12;
+  --surf: #14171d;
+  --surf2: #1b1f27;
+  --ink: #eef1f5;
+  --muted: #8d95a3;
+  --line: #262b35;
+
+  --amber: #f2a93b;
+  --amber-soft: rgba(242, 169, 59, .14);
+  --cyan: #57c7d4;
+
+  --neg: #ff8a8a;   --neg-bg: rgba(255, 138, 138, .12);
+  --inv: #f2c46b;   --inv-bg: rgba(242, 196, 107, .12);
+  --conf: #7fe0a6;  --conf-bg: rgba(127, 224, 166, .12);
+  --none: #aab3c0;  --none-bg: rgba(170, 179, 192, .12);
+
+  --font-display: "Unbounded", "Arial Black", system-ui, sans-serif;
+  --font-sans: "Geist", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, Menlo, Consolas, monospace;
+
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 22px;
+  --content-max: 1040px;
+
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg: #f3f1ec; --surf: #ffffff; --surf2: #f7f5f1; --ink: #14171d; --muted: #5f6672; --line: #e2ddd4;
+    --amber: #b86e00; --amber-soft: rgba(184, 110, 0, .10); --cyan: #0f7f8c;
+    --neg: #b4232c; --neg-bg: rgba(180, 35, 44, .09);
+    --inv: #8f5a00; --inv-bg: rgba(143, 90, 0, .10);
+    --conf: #1d7a45; --conf-bg: rgba(29, 122, 69, .10);
+    --none: #5f6672; --none-bg: rgba(95, 102, 114, .10);
+    color-scheme: light;
+  }
+}
+
+:root[data-theme="light"] {
+  --bg: #f3f1ec; --surf: #ffffff; --surf2: #f7f5f1; --ink: #14171d; --muted: #5f6672; --line: #e2ddd4;
+  --amber: #b86e00; --amber-soft: rgba(184, 110, 0, .10); --cyan: #0f7f8c;
+  --neg: #b4232c; --neg-bg: rgba(180, 35, 44, .09);
+  --inv: #8f5a00; --inv-bg: rgba(143, 90, 0, .10);
+  --conf: #1d7a45; --conf-bg: rgba(29, 122, 69, .10);
+  --none: #5f6672; --none-bg: rgba(95, 102, 114, .10);
+  color-scheme: light;
+}

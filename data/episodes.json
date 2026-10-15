@@ -1,0 +1,220 @@
+{
+  "updatedAt": "2026-10-09",
+  "episodes": [
+    {
+      "date": "2024-12",
+      "type": "Versão de Flávio",
+      "status": "conf",
+      "title": "O primeiro contato",
+      "text": "Flávio diz ter conhecido Vorcaro em dezembro de 2024, depois do fim do governo do pai e antes de haver suspeitas públicas sobre o banqueiro. As mensagens obtidas pelo Intercept vão de dezembro de 2024 a novembro de 2025.",
+      "sources": [
+        {
+          "name": "Agência Pública",
+          "url": "https://apublica.org/nota/flavio-bolsonaro-audio-vazado-com-vorcaro-cobra-r-134-milhoes/"
+        },
+        {
+          "name": "Jornal Opção",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/conversas-vazadas-mostram-flavio-bolsonaro-pressionando-vorcaro-por-dinheiro-para-filme-825365/"
+        }
+      ]
+    },
+    {
+      "date": "2025-02",
+      "type": "Dinheiro",
+      "status": "inv",
+      "title": "Começam os repasses para o filme",
+      "text": "Segundo o Intercept, Vorcaro se comprometeu com US$ 24 milhões e pagou ao menos US$ 10,6 milhões até maio. Parte passou por uma empresa de investimentos até um fundo no Texas ligado a aliados de Eduardo Bolsonaro. A reportagem cita também Mario Frias e Fabiano Zettel, cunhado de Vorcaro.",
+      "response": "Flávio diz que o dinheiro foi usado integralmente na produção e que vai apresentar contratos e comprovantes.",
+      "sources": [
+        {
+          "name": "Jornal Opção",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/conversas-vazadas-mostram-flavio-bolsonaro-pressionando-vorcaro-por-dinheiro-para-filme-825365/"
+        },
+        {
+          "name": "Jornal do Brasil",
+          "url": "https://www.jb.com.br/brasil/policia/2026/05/1059801-pf-envia-a-pgr-parecer-favoravel-pra-investigar-flavio-bolsonaro-por-pedido-de-dinheiro-a-vorcaro.html"
+        }
+      ]
+    },
+    {
+      "date": "2025-04",
+      "type": "Dinheiro",
+      "status": "neg",
+      "title": "A nota de R$ 500 mil do escritório",
+      "text": "Reportagem do Metrópoles, confirmada por O Globo e Folha, mostra nota de R$ 500 mil emitida pelo escritório de Flávio para uma empresa de contabilidade cujo dono também responde por uma consultoria que recebeu quase R$ 60 milhões do Master, segundo documentos de CPI. Outras duas faturas, de R$ 1 milhão, foram canceladas.",
+      "response": "Flávio reconhece a relação com a empresa, mas diz que não recebeu dinheiro e que nenhum serviço foi prestado. A empresa nega vínculo com o Master.",
+      "sources": [
+        {
+          "name": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com.br/brasil/flavio-bolsonaro-nega-irregularidades-de-seu-escritorio-com-empresa-ligada-a-vorcaro/"
+        },
+        {
+          "name": "Money Times",
+          "url": "https://www.moneytimes.com.br/o-que-flavio-bolsonaro-nao-explicou-sobre-os-r-500-mil-que-recebeu-de-empresa-ligada-ao-banco-master-igdl/"
+        }
+      ]
+    },
+    {
+      "date": "2025",
+      "type": "Mensagens",
+      "status": "conf",
+      "title": "Cobranças por parcelas atrasadas",
+      "text": "Em áudio sem data divulgada, Flávio diz estar constrangido em cobrar, fala em parcelas atrasadas e em risco de calote com atores contratados. Em outra conversa, Vorcaro orienta Zettel a não atrasar mais.",
+      "response": "Flávio confirmou o áudio e diz que cobrava um patrocínio privado.",
+      "sources": [
+        {
+          "name": "Jornal Opção",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/conversas-vazadas-mostram-flavio-bolsonaro-pressionando-vorcaro-por-dinheiro-para-filme-825365/"
+        },
+        {
+          "name": "Jornal do Brasil",
+          "url": "https://www.jb.com.br/brasil/2026/06/1059849-mensagens-revelam-pressao-de-flavio-por-pagamentos-no-filme-sobre-bolsonaro.html"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-16",
+      "type": "Mensagens",
+      "status": "conf",
+      "title": "A mensagem na véspera da prisão",
+      "text": "Um dia antes da primeira prisão de Vorcaro, Flávio envia imagens de visualização única e uma mensagem de apoio, chamando o banqueiro de irmão.",
+      "quote": "“Estou e estarei contigo sempre”",
+      "sources": [
+        {
+          "name": "Itatiaia",
+          "url": "https://www.itatiaia.com.br/politica/flavio-diz-que-vazamento-de-audio-com-vorcaro-foi-tentativa-de-contaminacao-politica/"
+        },
+        {
+          "name": "Agência Pública",
+          "url": "https://apublica.org/nota/flavio-bolsonaro-audio-vazado-com-vorcaro-cobra-r-134-milhoes/"
+        }
+      ]
+    },
+    {
+      "date": "2025-11",
+      "type": "Encontro",
+      "status": "conf",
+      "title": "A visita depois da prisão",
+      "text": "Flávio foi à casa de Vorcaro quando o banqueiro já usava tornozeleira. Só confirmou a visita em maio de 2026, o que, segundo o SBT News, enfraquece a versão de que os contatos ocorreram sem conhecimento de suspeitas.",
+      "response": "Diz que foi encerrar o assunto e que, se tivesse sido alertado sobre a gravidade, teria buscado outro investidor.",
+      "sources": [
+        {
+          "name": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/colunas/coluna-do-ranier/revelacao-de-flavio-sobre-novo-encontro-com-vorcaro-contradiz-explicacoes-iniciais"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "type": "Mensagens",
+      "status": "conf",
+      "title": "O Intercept publica o áudio",
+      "text": "A reportagem revela o áudio e as mensagens. Abordado pelo repórter, Flávio nega e deixa o local; horas depois confirma a autenticidade.",
+      "sources": [
+        {
+          "name": "Agência Pública",
+          "url": "https://apublica.org/nota/flavio-bolsonaro-audio-vazado-com-vorcaro-cobra-r-134-milhoes/"
+        },
+        {
+          "name": "Jornal Opção",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/conversas-vazadas-mostram-flavio-bolsonaro-pressionando-vorcaro-por-dinheiro-para-filme-825365/"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "type": "Versão de Flávio",
+      "status": "conf",
+      "title": "“Papel de filho” e acusação de uso político",
+      "text": "Flávio diz que se relacionou com Vorcaro só como filho em busca de patrocínio para a homenagem ao pai e que é preciso separar investigação séria de tentativa de contaminação política.",
+      "sources": [
+        {
+          "name": "Itatiaia",
+          "url": "https://www.itatiaia.com.br/politica/flavio-diz-que-vazamento-de-audio-com-vorcaro-foi-tentativa-de-contaminacao-politica/"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "type": "Repercussão",
+      "title": "Aliados saem em defesa",
+      "text": "Tarcísio de Freitas e Ricardo Nunes dizem que Flávio já explicou o caso. Sergio Moro afirma que o episódio é explorado pelo PT e lembra que a oposição assinou o pedido de CPMI do Master.",
+      "sources": [
+        {
+          "name": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/tarcisio-diz-que-audio-de-flavio-e-vorcaro-nao-prejudica-candidatura"
+        },
+        {
+          "name": "Bem Paraná",
+          "url": "https://www.bemparana.com.br/publicacao/blogs/martha-feldens/moro-demora-mas-se-manifesta-sobre-audios-de-flavio-bolsonaro-com-vorcaro-sinonimo-de-corrupcao-no-brasil-e-o-pt/amp/"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "type": "Repercussão",
+      "title": "Críticas de outros presidenciáveis",
+      "text": "Romeu Zema e Renan Santos consideram as explicações insuficientes. Ronaldo Caiado cobra prestação de contas sem atacar Flávio diretamente.",
+      "sources": [
+        {
+          "name": "Diario de Pernambuco",
+          "url": "https://www.diariodepernambuco.com.br/politica/2026/05/11714598-zema-e-renan-santos-dizem-que-explicacoes-de-flavio-sobre-vorcaro-nao-sao-convincentes.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05",
+      "type": "Repercussão",
+      "title": "O efeito no eleitorado",
+      "text": "Pesquisa Atlas mostra recepção positiva da explicação entre bolsonaristas e negativa entre indecisos. A inclusão do áudio no questionário foi contestada pelo PL.",
+      "sources": [
+        {
+          "name": "SBT News",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/explicacao-sobre-audio-com-vorcaro-convence-bolsonaristas-mas-afasta-indecisos-diz-atlas"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "type": "Investigação",
+      "status": "inv",
+      "title": "PF defende abrir investigação",
+      "text": "A PF envia à PGR parecer favorável a investigar Flávio. Uma hipótese é que parte da remessa aos EUA tenha bancado a permanência de Eduardo Bolsonaro no país, o que poderia configurar coação e evasão de divisas.",
+      "response": "Flávio confirma ter pedido os recursos e nega irregularidade.",
+      "sources": [
+        {
+          "name": "Jornal do Brasil",
+          "url": "https://www.jb.com.br/brasil/policia/2026/05/1059801-pf-envia-a-pgr-parecer-favoravel-pra-investigar-flavio-bolsonaro-por-pedido-de-dinheiro-a-vorcaro.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "type": "Investigação",
+      "status": "inv",
+      "title": "STF autoriza a apuração",
+      "text": "Segundo fonte ouvida pela Bloomberg Línea, André Mendonça autorizou a PF a investigar o financiamento do filme e os laços entre os dois. A decisão está sob sigilo.",
+      "response": "Flávio vinha afirmando não ser investigado e nega irregularidades.",
+      "sources": [
+        {
+          "name": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com.br/brasil/stf-autoriza-investigacao-da-pf-sobre-lacos-entre-flavio-bolsonaro-e-vorcaro-diz-fonte/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "type": "Investigação",
+      "status": "none",
+      "title": "Representação sobre suposta articulação eleitoral",
+      "text": "Advogados do grupo Prerrogativas, um deles da coordenação da campanha de Lula, pedem à PF que apure se pessoas ligadas à campanha de Flávio estimularam Vorcaro a gravar acusações contra Lula antes do segundo turno. Eles admitem não ter visto a gravação.",
+      "response": "A reportagem não traz resposta de Flávio, da campanha ou de Vorcaro.",
+      "sources": [
+        {
+          "name": "Jornal Opção",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/pf-e-acionada-por-suspeita-de-armacao-eleitoral-entre-vorcaro-e-aliados-de-flavio-bolsonaro-877257/"
+        }
+      ]
+    }
+  ]
+}

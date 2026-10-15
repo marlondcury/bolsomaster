@@ -1,0 +1,9 @@
+{
+  "name": "dossie-flavio-vorcaro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site estático com a cronologia da relação entre Flávio Bolsonaro e Daniel Vorcaro.",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000"
+  }
+}
